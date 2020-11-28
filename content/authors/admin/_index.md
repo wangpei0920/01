@@ -26,12 +26,7 @@ education:
   - course: Undergraduate in Industrial Design
     institution: Nanjing University of Science and Technology
     year: 2020
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
