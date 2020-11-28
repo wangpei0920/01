@@ -6,7 +6,7 @@ title: Wang Pei
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Industrial Design Undergraduate
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My profession is Industrial Design.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Industrial Design
+- Automobile Design
+- UI
 
 education:
   courses:
